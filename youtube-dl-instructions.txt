@@ -1,0 +1,3 @@
+youtube-dl -x --audio-format mp3 -o '~/Music/YTDL Jan 2024/%(title)s-upload-by-%(uploader)s.%(ext)s' "
+https://www.youtube.com/watch?v=gUva6KFPUpE
+"
