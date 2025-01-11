@@ -1,0 +1,3 @@
+
+cd '/Users/omarshishani/Music/DJ Jan 2025' 
+scdl -l "https://soundcloud.com/chsngrbbts/anotherday?in=natasha-shishani/sets/tahoeeeee"
